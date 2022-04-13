@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+nav {
+    color: blue;
+
+}
+
+.title{
+    padding: 10px;
+    border: 2px blue solid;
+}
+
+.parag {
+    padding-top: 20px;
+}
